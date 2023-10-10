@@ -24,7 +24,7 @@ Welcome to visit the homepage of our paper entitled "Demystifying the Ignored: E
     - functionality type
     - corresponding research papers
     
-## Script
+## Scripts
 
 * **Invocation scripts**: Invocation scripts used in our study are in the directory "**Invocation scripts**", including the invocation code of AWS Lambda and Google Cloud Functions.
   - "**invokeFunctionScript-run1.py**" and "**invokeFunctionScript-run2.py**" for AWS Lambda
