@@ -1,5 +1,7 @@
 # Demystifying the Ignored: Exploring the Overlooked Performance Variance in Serverless Computing
 
+Welcome to visit the homepage of our paper entitled "Demystifying the Ignored: Exploring the Overlooked Performance Variance in Serverless Computing". The homepage contains the dataset, scripts, and deployment code used in this paper.
+
 ## Dataset
 
 * **Research papers**: In the file "**Collected research papers.xlsx**", there is detailed information about 59 research papers that we collected, including
@@ -10,10 +12,6 @@
   - the labeled information regarding RQ1
 
 * **Raw data**: We make raw data of cold-start/warm-start performance publicly available. Please refer to the file "**Raw data of performance results.xlsx**". We use the response latencies of each serverless function with 50 repetitions.
-
-* **Invocation scripts**: Invocation scripts used in our study are in the directory "**Invocation scripts**", including the invocation code of AWS Lambda and Google Cloud Functions.
-  - "invokeFunctionScript-run1.py" and "invokeFunctionScript-run2.py" for AWS Lambda
-  - "invokeGoogleFunction.py" for Google Cloud Functions
 
 * We have also curated and made publicly available a benchmark dataset about serverless functions for future performance testing and optimization of serverless computing.
   - In the file "**Executed serverless functions.xlsx**", there is detailed information about 65 serverless functions, including
@@ -26,10 +24,21 @@
     - functionality type
     - corresponding research papers
     
+## Script
+
+* **Invocation scripts**: Invocation scripts used in our study are in the directory "**Invocation scripts**", including the invocation code of AWS Lambda and Google Cloud Functions.
+  - "invokeFunctionScript-run1.py" and "invokeFunctionScript-run2.py" for AWS Lambda
+  - "invokeGoogleFunction.py" for Google Cloud Functions
+
+## Deployment Code of Serverless Functions
+
   - In the directory "**Deployment Packages for Serverless Functions**", there are deployment packages corresponding to Func1 to Func65. 
     - the code for each serverless function is packaged in a separate folder
     - the short input payload for some serverless functions is recorded in "**Executed serverless functions.xlsx**"
     - the long input payload for some serverless functions is stored in the directory "**input**", including func20, func29, func54, func56, func57, and func60.
+
+## Figure
+Figures not shown in the paper for space reasons
 
 * **Figures**:
   - RQ2: the normalized boxplot of warm starts
