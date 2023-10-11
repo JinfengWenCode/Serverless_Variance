@@ -41,6 +41,7 @@ Welcome to visit the homepage of our paper entitled "The Phantom of the Ignored:
 Figures not shown in the paper for space reasons
 
 * RQ2: the normalized boxplot of warm starts
-<img width="1053" alt="image" src="https://github.com/WWW24Work/Serverless_Variance/assets/121369770/a7570009-6b71-4ae7-9610-90baf8c2dd37">
+<img width="993" alt="image" src="https://github.com/WWW24Work/SLSPerformanceVariance/assets/121369770/abcd2637-054f-431d-9376-691e68aa1192">
+
 
     
