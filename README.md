@@ -37,11 +37,5 @@ Welcome to visit the homepage of our paper entitled "The Phantom of the Ignored:
   - the short input payload for some serverless functions is recorded in the file "**Executed serverless functions.xlsx**"
   - the long input payload for some serverless functions is stored in the directory "**input**", including the payloads for func20, func29, func54, func56, func57, and func60
 
-## Figures
-Figures not shown in the paper for space reasons
-
-* RQ2: the normalized boxplot of warm starts
-<img width="993" alt="image" src="https://github.com/WWW24Work/SLSPerformanceVariance/assets/121369770/abcd2637-054f-431d-9376-691e68aa1192">
-
 
     
